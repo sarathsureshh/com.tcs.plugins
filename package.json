@@ -1,0 +1,14 @@
+{
+	"name": "com.tcs.plugin",
+	"displayName": "Dependancy plugin package",
+	"version": "1.0.0",
+	"unity": "2020.3",
+	"author": "TCS",
+	"description": "Plugins for WearHF and Zing",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sarathsureshh/com.tcs.plugins.git"
+	}
+}
